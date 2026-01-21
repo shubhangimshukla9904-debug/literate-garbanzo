@@ -1,0 +1,6 @@
+Scenario,Avg_Wafer_Material_Cost_USD
+Baseline,8.343
+Oil Spike (+20%),11.843
+Strong Dollar (+10%),6.813
+Copper Crash (-15%),8.118
+Energy + FX Shock,10.313
